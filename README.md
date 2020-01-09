@@ -1,7 +1,7 @@
 # binhkt-corenlp
 Core code for NLP
 
-## Preprocessing data
+## IO
 ### json format
 - Read data
 - Write data
@@ -12,4 +12,4 @@ Core code for NLP
 ### convert one to another
 - json to dataframe (pd)
 - 
-## 
+## preprocessing
