@@ -1,6 +1,9 @@
 # binhkt-corenlp
 Core code for NLP
 
+## Preview
+### json preview
+
 ## IO
 ### json format
 - Read data
